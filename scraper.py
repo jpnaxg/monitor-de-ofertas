@@ -9,8 +9,6 @@ CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
 # Link do produto que você quer monitorar (exemplo: Mercado Livre)
 
 URL = "https://meli.la/2hBz5hs"
-URL = "COLE_AQUI_A_URL_DO_PRODUTO"
-URL = "COLE_AQUI_A_URL_DO_PRODUTO"
 
 headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
 
